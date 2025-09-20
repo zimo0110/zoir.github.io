@@ -17,7 +17,7 @@ Work & Research Experience
 ======
 * **Undergraduate Research Assistant, Sky Lab** — UC Berkeley
   * July 2025 – Present
-  * Conducting research on multi-agent and AI systems, focusing on large language model serving.
+  * Conducting research on multi-agent and AI systems, focusing on large language model function calling ability.
   * Added local inference support for open-source models like Qwen3 and Kimi-K2-Instruct for the Gorilla LLM benchmarking framework.
   * Designed multimodal evaluation tasks and reasoning-trace datasets to stress-test model performance.
   * Exploring memory management for large ML systems, specifically policies to optimize KV-cache hit rates.
